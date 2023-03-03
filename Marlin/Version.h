@@ -28,6 +28,7 @@
 /**
  * Marlin release version identifier
  */
+
 #define SHORT_BUILD_VERSION "CR6-Era_V1.1.0.3 hitemp"
 
 /**
@@ -41,6 +42,7 @@
  * here we define this default string as the date where the latest release
  * version was tagged.
  */
+
 #define STRING_DISTRIBUTION_DATE "2023-03-03"
 
 
