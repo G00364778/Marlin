@@ -1,10 +1,14 @@
-# Community firmware for the Creality CR-6 3D printer
+# Community firmware patch for the Creality CR-6 3D printer with Era board
 
-**This branch is for the Creality CR-6 SE with stock v4.5.2 motherboard and the stock display.**
+**This branch is for the Creality CR-6 SE with stock v4.5.3 or Era_V1.1.0.3 motherboard and the stock display.**
 
 _For other configurations for the Creality CR-6 printer (like BigTreeTech SKR board and optional BTT TFT v3.0 display - please check the [branches and development section](#development-and-compile-it-yourself) section below._
 
 ## Downloads
+
+The code for this branch is on https://github.com/G00364778/cr6-marlin.
+
+The display was falshed with the CRCommunity display files for v4.5.3 boards.
 
 Please find official releases in the [Releases section](https://github.com/CR6Community/Marlin/releases). Take the release which belongs to the particular touch screen firmware you are going to flash. Please read the release notes *carefully* - it contains all the instructions you need.
 
